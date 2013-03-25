@@ -47,7 +47,7 @@
         different scenarios, explore their architectural considerations and discuss how 
         to develop a sustainable business model that addresses your customer’s needs and 
         expectations.<o:p></o:p></p>
-    <h2>Slides</h2>
+    <h2>Slides:</h2>
     <ul>
         <li><a href=".\Content\Cloud Strategy Day - Devices and Services - Chapter 1.pdf">Microsoft’s devices and services strategy</a></li>
         <li><a href=".\Content\Cloud Strategy Day - Devices and Services - Chapter 2.pdf">Making money with apps</a></li>
